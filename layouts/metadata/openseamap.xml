@@ -1,0 +1,6 @@
+
+<metadata>
+    <option iso="es" name="Español"> Este layout permite openseamap</option>
+    <option iso="en" name="English"> This layout allows you to map objects for openseamap</option>
+    <github username="jsavage" repo="osmtracker-android-layouts" branch="master" />
+</metadata>
